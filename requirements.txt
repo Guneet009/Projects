@@ -1,4 +1,8 @@
 numpy
 seaborn
 pandas
--e .
+scikit-learn
+catboost
+xgboost
+matplotlib
+# -e . use it in the end to build module
